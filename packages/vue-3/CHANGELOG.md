@@ -1,5 +1,14 @@
 # Change Log
 
+## 3.0.0-next.2
+
+### Patch Changes
+
+- 94a8d25: Fix editor destruction before transition end if editor is nested
+- Updated dependencies [830e683]
+  - @tiptap/extension-bubble-menu@3.0.0-next.2
+  - @tiptap/extension-floating-menu@3.0.0-next.2
+
 ## 3.0.0-next.1
 
 ### Major Changes

@@ -1,5 +1,14 @@
 # Change Log
 
+## 3.0.0-next.2
+
+### Patch Changes
+
+- 4ee59c1: Pin vue-ts-types to a working version for vue-2
+- Updated dependencies [830e683]
+  - @tiptap/extension-bubble-menu@3.0.0-next.2
+  - @tiptap/extension-floating-menu@3.0.0-next.2
+
 ## 3.0.0-next.1
 
 ### Major Changes

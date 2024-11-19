@@ -1,5 +1,11 @@
 # Change Log
 
+## 3.0.0-next.2
+
+### Patch Changes
+
+- 2178118: Add Node `linebreakReplacement` support and enable on hard-break nodes
+
 ## 3.0.0-next.1
 
 ### Major Changes

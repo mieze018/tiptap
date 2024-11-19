@@ -1,5 +1,11 @@
 # Change Log
 
+## 3.0.0-next.2
+
+### Patch Changes
+
+- 8837156: Fix backspace behavior when selection is not collapsed
+
 ## 3.0.0-next.1
 
 ### Major Changes
