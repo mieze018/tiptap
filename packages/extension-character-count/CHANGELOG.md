@@ -1,5 +1,19 @@
 # Change Log
 
+## 3.0.0
+
+### Major Changes
+
+- 14681a1: fix: #5851 - While setting `content` directly while using character-count
+
+### Patch Changes
+
+- Updated dependencies [283e606]
+- Updated dependencies [ca6269e]
+- Updated dependencies [e0dfecc]
+  - @tiptap/core@3.0.0
+  - @tiptap/pm@3.0.0
+
 ## 2.10.2
 
 ## 2.10.1

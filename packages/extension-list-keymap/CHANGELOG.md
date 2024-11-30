@@ -1,5 +1,15 @@
 # Change Log
 
+## 3.0.0
+
+### Patch Changes
+
+- 86250c6: Improve selected text deletion at the end of list items
+- Updated dependencies [283e606]
+- Updated dependencies [ca6269e]
+- Updated dependencies [e0dfecc]
+  - @tiptap/core@3.0.0
+
 ## 2.10.2
 
 ## 2.10.1

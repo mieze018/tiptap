@@ -1,5 +1,15 @@
 # Change Log
 
+## 3.0.0
+
+### Patch Changes
+
+- f79c05e: Update inline code formatting for text enclosed in backticks
+- Updated dependencies [283e606]
+- Updated dependencies [ca6269e]
+- Updated dependencies [e0dfecc]
+  - @tiptap/core@3.0.0
+
 ## 2.10.2
 
 ## 2.10.1

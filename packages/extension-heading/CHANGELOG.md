@@ -1,5 +1,15 @@
 # Change Log
 
+## 3.0.0
+
+### Patch Changes
+
+- 01547d5: Fixed a bug causing the levels rule to be ignored if a level of 1 was **not allowed**
+- Updated dependencies [283e606]
+- Updated dependencies [ca6269e]
+- Updated dependencies [e0dfecc]
+  - @tiptap/core@3.0.0
+
 ## 2.10.2
 
 ## 2.10.1

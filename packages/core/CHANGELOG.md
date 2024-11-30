@@ -1,5 +1,14 @@
 # Change Log
 
+## 3.0.0
+
+### Patch Changes
+
+- 283e606: Fixed an issue on Android where the focus command would cause the keyboard to flash
+- ca6269e: Added support for drag-and-drop between multiple editors
+- e0dfecc: Updates the typings to be inline with Prosemirror-view #5867
+  - @tiptap/pm@3.0.0
+
 ## 2.10.2
 
 ### Patch Changes
